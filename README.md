@@ -1,0 +1,1 @@
+# electron-forge-lack-of-error-example
