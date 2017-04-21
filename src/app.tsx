@@ -9,3 +9,5 @@ export class App extends React.Component<undefined, undefined> {
     );
   }
 }
+
+const four:number = 'four';
